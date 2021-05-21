@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Sy's Site
 
-You can use the [editor on GitHub](https://github.com/sylolx/sy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is a github hosted website. I have posted many projects on my github page, all of them are open sourced and can be viewed with many different softwares. Make sure to check me out!
 
 ### Markdown
 
