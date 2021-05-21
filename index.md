@@ -2,34 +2,10 @@
 
 This is a github hosted website. I have posted many projects on my github page, all of them are open sourced and can be viewed with many different softwares. Make sure to check me out!
 
-### Markdown
+### About me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sylolx/sy/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Hello, I am a 14 year old c# developer arising just now. I like soccer and basketball. I am also Australian. I am always looking to improve my coding skills and eventually learn c++ or some other language.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+You can contact me many ways. 1: Through Discord, ʙᴏᴅɪᴇᴅ#7058 2: Through Instagram, gmcg74 3: Through snapchat, gmcg007
